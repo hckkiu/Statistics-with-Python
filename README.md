@@ -1,9 +1,5 @@
 # Data Visualization
 
-### [Maximum Rainfall in Hong Kong by Year (1947-2022)](https://github.com/hckkiu/data-viz/tree/main/rainfall)
-[![](rainfall/rainfall.png)](https://github.com/hckkiu/data-viz/tree/main/rainfall)
----
-
 ### [Global Temperature (1835 - 2015)](https://github.com/hckkiu/data-viz/tree/main/temperature)
 [![](temperature/temperature.png)](https://github.com/hckkiu/data-viz/tree/main/temperature)
 ---
